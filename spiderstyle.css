@@ -1,0 +1,51 @@
+
+p{
+    font-weight: bold;
+    font-size:x-large;
+    font-family: monospace;
+    color: black;
+}
+
+#top{
+    text-decoration: underline;
+}
+
+
+.emphasizedText{
+    font-style: italic;
+    color:darksalmon
+}
+
+body{
+    border: 5px solid black;
+    margin: 20px;
+    padding: 20px;
+    text-align: center; 
+    background-color:aliceblue;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+ol{
+    list-style-position: inside;
+}
+
+ul{
+    list-style-position: inside;
+}
+a:visited{
+    color:black;
+    
+}
+
+p{
+    color:blueviolet;
+    font-style: bold;
+    font-family: monospace;
+    font-size:x-large
+}
+
+h{
+    color:blueviolet;
+}
+
+
